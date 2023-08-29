@@ -1,0 +1,15 @@
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\bin\Debug\net6.0\CSharpFundamentalsDemo.exe
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\bin\Debug\net6.0\CSharpFundamentalsDemo.deps.json
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\bin\Debug\net6.0\CSharpFundamentalsDemo.runtimeconfig.json
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\bin\Debug\net6.0\CSharpFundamentalsDemo.dll
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\bin\Debug\net6.0\ref\CSharpFundamentalsDemo.dll
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\bin\Debug\net6.0\CSharpFundamentalsDemo.pdb
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\obj\Debug\net6.0\CSharpFundamentalsDemo.csproj.AssemblyReference.cache
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\obj\Debug\net6.0\CSharpFundamentalsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\obj\Debug\net6.0\CSharpFundamentalsDemo.AssemblyInfoInputs.cache
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\obj\Debug\net6.0\CSharpFundamentalsDemo.AssemblyInfo.cs
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\obj\Debug\net6.0\CSharpFundamentalsDemo.csproj.CoreCompileInputs.cache
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\obj\Debug\net6.0\CSharpFundamentalsDemo.dll
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\obj\Debug\net6.0\ref\CSharpFundamentalsDemo.dll
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\obj\Debug\net6.0\CSharpFundamentalsDemo.pdb
+C:\Users\mkhan101\OneDrive - Capgemini\Desktop\NA Training Code Problem Solution\CSharpFundamentalsDemo\obj\Debug\net6.0\CSharpFundamentalsDemo.genruntimeconfig.cache
